@@ -1,0 +1,9 @@
+#ifndef _resource_rc
+#define _resource_rc
+#include "resource.h"
+
+MAINICON ICON "Calculator.ico"
+BKGROUND BITMAP "bg.bmp"
+
+#endif
+

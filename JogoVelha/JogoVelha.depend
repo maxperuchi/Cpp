@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1407549693 source:c:\users\maxwel\desktop\campominado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tela.h"
+	"Util.h"
+	"Jogo.h"
+
+1407548404 c:\users\maxwel\desktop\campominado\tela.h
+
+1407548416 source:c:\users\maxwel\desktop\campominado\tela.c
+	"Tela.h"
+	<stdio.h>
+
+1407549877 source:c:\users\maxwel\desktop\campominado\util.c
+	"Util.h"
+
+1407547438 c:\users\maxwel\desktop\campominado\util.h
+
+1407549739 source:c:\users\maxwel\desktop\campominado\jogo.c
+	"Jogo.h"
+	<stdio.h>
+
+1407548533 c:\users\maxwel\desktop\campominado\jogo.h
+
+1407618707 source:c:\users\maxwel\desktop\jogovelha\jogo.c
+	"Jogo.h"
+	<stdio.h>
+
+1407617780 c:\users\maxwel\desktop\jogovelha\jogo.h
+	<stdbool.h>
+
+1407618770 source:c:\users\maxwel\desktop\jogovelha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tela.h"
+	"Util.h"
+	"Jogo.h"
+
+1407617934 c:\users\maxwel\desktop\jogovelha\tela.h
+
+1407595446 c:\users\maxwel\desktop\jogovelha\util.h
+
+1407595598 source:c:\users\maxwel\desktop\jogovelha\util.c
+	"Util.h"
+
+1407618035 source:c:\users\maxwel\desktop\jogovelha\tela.c
+	"Tela.h"
+	<stdio.h>
+

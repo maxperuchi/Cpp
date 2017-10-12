@@ -1,6 +1,6 @@
 #include <windows.h>
 #include <iostream>
-#include "rotinas.h"
+#include "helpers.h"
 #include "resource.h"
 
 #define ID_VISOR 99
@@ -49,7 +49,7 @@ void Mostra666()
 
 LRESULT CALLBACK WindowProcedure (HWND, UINT, WPARAM, LPARAM);
 
-char szClassName[ ] = "CalculadoraCPP";
+char szClassName[ ] = "MySampleCalculator";
 
 int WINAPI WinMain (HINSTANCE hThisInstance,
                      HINSTANCE hPrevInstance,
@@ -80,7 +80,7 @@ int WINAPI WinMain (HINSTANCE hThisInstance,
     janela = CreateWindowEx (
            0,
            szClassName,
-           "CalculadoraCPP",
+           "MySampleCalculator",
            WS_SYSMENU,
            CW_USEDEFAULT,
            CW_USEDEFAULT,

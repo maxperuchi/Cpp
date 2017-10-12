@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1367868406 source:c:\users\maxwel.mello\desktop\MySampleCalculator\main.cpp
+	<windows.h>
+	<iostream>
+	"helpers.h"
+	"resource.h"
+
+1365009697 c:\users\maxwel.mello\desktop\MySampleCalculator\botoes.h
+
+1365006039 source:c:\users\maxwel.mello\desktop\MySampleCalculator\src\botaook.cpp
+	"../include/botaoOK.h"
+
+1365006082 c:\users\maxwel.mello\desktop\MySampleCalculator\include\botaook.h
+	<windows.h>
+
+1367613499 c:\users\maxwel.mello\desktop\MySampleCalculator\helpers.h
+
+1365079097 source:c:\users\maxwel.mello\desktop\MySampleCalculator\src\calculo.cpp
+	"../include/calculo.h"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1365077300 c:\users\maxwel.mello\desktop\MySampleCalculator\include\calculo.h
+
+1367589132 source:c:\users\maxwel.mello\desktop\MySampleCalculator\resource.rc
+	"resource.h"
+
+1367589139 c:\users\maxwel.mello\desktop\MySampleCalculator\resource.h
+
